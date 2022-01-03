@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @denilsonbaptista
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+## Olá! Eu sou Denilson Baptista
+
+- :mortar_board: Hoje sou estudante de Engenharia de Software e trabalho como auxiliar de TI
+- 🌱 Estudando Java
+<!--- - 📫 How to reach me ... --->
+
 
 <!---
 denilsonbaptista/denilsonbaptista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
