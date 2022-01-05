@@ -4,7 +4,6 @@
 - 🎓 Hoje sou estudante de Engenharia de Software e trabalho como auxiliar de TI
 - 🌱 Estudando Java
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact
 
 <br>
 
