@@ -38,7 +38,7 @@
   <img align="center" src="https://img.shields.io/badge/-denilsonbaptista-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/DenilsonSBp" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-DenilsonSB-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-DenilsonSBp-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/denilsonbaptista" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-denilsonbaptista-05122A?style=flat&logo=linkedin" alt="linkedin"/>
