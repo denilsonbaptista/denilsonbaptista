@@ -5,7 +5,7 @@
 - 🎓 Hoje sou estudante de Engenharia de Software e trabalho como auxiliar de TI
 - 🌱 Estudando Java
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -20,7 +20,7 @@
  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  
-<br><br>
+<br>
  
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -29,7 +29,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbaptista&layout=compact&theme=merko" alt="denilsonbaptista's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
