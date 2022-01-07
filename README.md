@@ -23,8 +23,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="leftr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilsonbaptista&show_icons=true&theme=merko" alt="denilsonbaptista's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbaptista&layout=compact&theme=merko" alt="denilsonbaptista's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=denilsonbaptista&show_icons=true&theme=merko" alt="denilsonbaptista's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbaptista&layout=compact&theme=merko" alt="denilsonbaptista's most languages"/>
 </p>
 
 <br>
