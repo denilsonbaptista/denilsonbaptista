@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denilsonbaptista&color=green" alt="Profile views" /> </p>
 
 - 🎓 Hoje sou estudante de Engenharia de Software e trabalho como auxiliar de TI
-- 🌱 Estudando Java
+- 🌱 Estudando HTML / CSS / JavaScript
 - 😄 Pronouns: ele/dele
 
 <br>
