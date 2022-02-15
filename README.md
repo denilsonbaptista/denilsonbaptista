@@ -1,16 +1,16 @@
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Denilson</h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Denilson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denilsonbaptista&color=green" alt="Profile views" /> </p>
 
-- 🎓 Hoje sou estudante de Engenharia de Software e trabalho como auxiliar de TI
-- 🌱 Estudando HTML / CSS / JavaScript
-- 😄 Pronouns: ele/dele
+- 🎓 I'm a Software Engineer student
+- 🌱 Studying HTML / CSS / JavaScript at [Rocketseat](https://github.com/Rocketseat)
+- 📚 Come learn with me [my site](https://denilsonbaptista.notion.site/Denilson-Baptista-fb3192cbae89431b9928c87c95b880f0)
+- 😄 I'm passionate about technology
 
 <br>
 
 ## 🛠 &nbsp;Tech Stack
 
- ![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
