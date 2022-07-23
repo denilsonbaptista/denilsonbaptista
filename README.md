@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denilsonbaptista&color=green" alt="Profile views" /> </p>
 
 - 🎓 I'm a Software Engineer student
-- 🌱 Studying HTML / CSS / JavaScript at [Rocketseat](https://github.com/Rocketseat)
+- 🌱 Studying HTML / CSS / JavaScript
 - 📚 Come learn with me [my site](https://denilsonbaptista.notion.site/Denilson-Baptista-fb3192cbae89431b9928c87c95b880f0)
 - 😄 I'm passionate about technology
 
