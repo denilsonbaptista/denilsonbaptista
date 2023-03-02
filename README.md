@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Denilson</h1>
+<h1 align="left">Hello <img src="https://user-images.githubusercontent.com/28206070/147329764-e79204c7-8f22-4a6f-a689-5fd5cc2302ed.gif" width="40px">, I'm Denilson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denilsonbaptista&color=green" alt="Profile views" /> </p>
 
 - 🎓 I'm a Software Engineer student
@@ -20,7 +20,7 @@
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  
 <br>
- 
+<!---
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="leftr">
@@ -45,14 +45,10 @@
 <a href="https://instagram.com/denilsonbaptistabp" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-denilsonbaptistabp-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<!---
-<a href="https://youtube.com/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-denilsonbaptista-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
---->
 </p>
 
 ![Snake animation](https://github.com/denilsonbaptista/denilsonbaptista/blob/output/github-contribution-grid-snake.svg)
+--->
 
 <!---
 denilsonbaptista/denilsonbaptista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
