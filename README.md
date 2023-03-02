@@ -9,6 +9,7 @@
 - 🌱 Studying HTML / CSS / JavaScript
 - 😄 I'm passionate about technology
 
+<br>
 
 ## Tech Stack
 
