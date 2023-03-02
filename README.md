@@ -2,9 +2,8 @@
 <h1 align="left">Hello <img src="https://user-images.githubusercontent.com/28206070/147329764-e79204c7-8f22-4a6f-a689-5fd5cc2302ed.gif" width="40px">, I'm Denilson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denilsonbaptista&color=green" alt="Profile views" /> </p>
 
-- 🎓 I'm a Software Engineer student
+- 🎓 I'm a Software Engineer
 - 🌱 Studying HTML / CSS / JavaScript
-- 📚 Come learn with me [my site](https://denilsonbaptista.notion.site/Denilson-Baptista-fb3192cbae89431b9928c87c95b880f0)
 - 😄 I'm passionate about technology
 
 <br>
