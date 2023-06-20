@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denilsonbaptista&color=green" alt="Profile views" /> </p>
 --->
 
-🎓 I'm a Software Engineer
+**😄 I'm Deni!**
 
-- 🌱 Studying HTML / CSS / JavaScript
-- 😄 I'm passionate about technology
+- 📝 I'm graduated in Software Engineering
+- 😍 I'm love technology
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/denilsonbaptista/), [Instagram](https://www.instagram.com/denilsonbaptistabp/) or [Twitter](https://twitter.com/denilsonsbp)
 
-<br>
 
-## Tech Stack
+**Tech Stack**  
 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
